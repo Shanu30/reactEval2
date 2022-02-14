@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "97726c07-a3ea-42a3-adbd-bd8662a1b495",
+      "title": "wheat",
+      "cost": "150",
+      "image": "https://via.placeholder.com/140x100",
+      "category": "food"
+    },
+    {
+      "id": "f97eb7a5-6861-4ffd-8c42-d6ab06d5ce0b",
+      "title": "rice",
+      "cost": "100"
+    },
+    {
+      "id": "82777578-dd11-451e-8f18-27dcf9eb2afa",
+      "title": "curd",
+      "cost": "30"
+    },
+    {
+      "id": "cadd0d6d-9e24-46bc-b4a2-3a4ae3b9f99c",
+      "category": "milk"
+    }
+  ]
+}
